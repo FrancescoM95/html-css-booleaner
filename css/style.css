@@ -75,9 +75,11 @@ address {
     margin-left: 15px;
 }
 
+/* tabella */
+
 table {
     text-align: left;
-    margin-top: 30px;
+    margin-top: 30px;  
 }
 
 thead {
@@ -87,6 +89,7 @@ thead {
 
 th{
     width: 25%;
+    font-weight: 900;
 }
 
 .th-big{
@@ -95,6 +98,11 @@ th{
 
 tbody {
     background-color: #B1E5F2;
+}
+
+th,
+td{
+    padding-top: 2px;
 }
 
 tfoot {
