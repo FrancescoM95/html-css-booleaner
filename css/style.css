@@ -79,7 +79,8 @@ address {
 
 table {
     text-align: left;
-    margin-top: 30px;  
+    margin-top: 30px;
+    border-collapse: collapse;  
 }
 
 thead {
