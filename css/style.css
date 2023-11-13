@@ -83,7 +83,14 @@ table {
 thead {
     color: white;
     background-color: #20A9E5;
+}
 
+th{
+    width: 25%;
+}
+
+.th-big{
+    width: 50%;
 }
 
 tbody {
