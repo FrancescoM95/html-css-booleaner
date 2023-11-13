@@ -58,9 +58,8 @@ address {
     margin-top: 25px;
 }
 
-.main-box>img {
-    max-width: 100%;
-    height: 450px;
+.main-box>figure>img {
+    height: 430px;
 }
 
 .main-info>p {
