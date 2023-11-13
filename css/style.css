@@ -6,15 +6,15 @@
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
 }
-
-
-/* header */
 
 .container {
     max-width: 1280px;
     margin: 0 auto;
 }
+
+/* header */
 
 .logo-box {
     background-color: #4EA0FF;
@@ -44,18 +44,18 @@ h1 {
 }
 
 address {
-    font-size: 20px;
+    font-size: 22px;
     color: gray;
     font-weight: 600;
 }
 
 .date {
-    font-size: 14px;
+    font-size: 16px;
 }
 
 .main-box {
     max-width: 1280px;
-    margin-top: 30px;
+    margin-top: 25px;
 }
 
 .main-box>img {
